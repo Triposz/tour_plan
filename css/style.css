@@ -1,5 +1,13 @@
-body {
-  background-color: #fff;
-  color: red;
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+* body {
+  font-family: 'Mulish', sans-serif;
+}
+
+.header {
+  color: #fff;
 }
 /*# sourceMappingURL=style.css.map */
